@@ -1,0 +1,18 @@
+# Install packages as:
+# conda create --name <name> --file packages.txt -c defaults -c conda-forge -c htrc
+adjusttext
+cartopy
+geopy
+htrc-feature-reader
+jupyterlab
+matplotlib
+nltk
+numpy
+pandas
+pathlib
+scipy
+seaborn
+scikit-learn
+statsmodels
+unidecode
+

@@ -1,0 +1,1746 @@
+text_string,occurs_100k
+london,20.03159
+hampstead,0.30094
+soho,0.24727
+hyde park,0.20625
+covent garden,0.16565
+west end,0.14861
+greenwich,0.14517
+oxford street,0.13946
+chelsea,0.13625
+pall mall,0.13612
+grosvenor square,0.13435
+westminster,0.13146
+london bridge,0.11175
+park lane,0.11131
+scotland yard,0.10556
+belgravia,0.10496
+trafalgar square,0.104
+chatham,0.10086
+kensington gardens,0.09867
+bayswater,0.0962
+haymarket,0.08778
+paddington,0.08716
+knightsbridge,0.08675
+bloomsbury,0.08572
+buckingham palace,0.08327
+holborn,0.08219
+east end,0.08212
+leicester square,0.07625
+hammersmith,0.07447
+camden town,0.07269
+cavendish square,0.07093
+piccadilly,0.06931
+putney,0.06872
+highgate,0.06872
+berkeley square,0.06835
+eaton square,0.06221
+lombard street,0.06043
+southampton street,0.05894
+fulham,0.0575
+jermyn street,0.05611
+south kensington,0.05484
+portland place,0.05417
+st james s park,0.05323
+battersea,0.05297
+st james s square,0.05178
+clerkenwell,0.0515
+pentonville,0.05049
+tottenham court road,0.05028
+hyde park corner,0.04689
+tavistock,0.04643
+downing street,0.04606
+fleet street,0.04419
+mayfair,0.04303
+westminster bridge,0.04128
+clapham,0.04083
+charing cross road,0.04069
+shoreditch,0.04019
+victoria station,0.04016
+regent street,0.03953
+waterloo bridge,0.03915
+chancery lane,0.03822
+portman square,0.03761
+russell square,0.03714
+trafalgar,0.03652
+west hill,0.03651
+st john s wood,0.03574
+sloane street,0.03506
+grosvenor street,0.03494
+belgrave square,0.03461
+westminster hall,0.03456
+liverpool street,0.03402
+shaftesbury avenue,0.03287
+streatham,0.03265
+euston road,0.03168
+fulham road,0.03158
+bedford square,0.03077
+zoological gardens,0.03074
+old bailey,0.03011
+spitalfields,0.02979
+vauxhall bridge road,0.02977
+dulwich,0.02947
+curzon street,0.02929
+st pancras,0.02897
+aldgate,0.02874
+mortlake,0.02743
+hoxton,0.02669
+kentish town,0.02652
+edgware road,0.02565
+westminster abbey,0.0255
+clarges street,0.02533
+marylebone,0.02505
+euston,0.02463
+ludgate hill,0.02449
+golden square,0.02447
+gower street,0.02425
+willesden,0.02393
+chiswick,0.02387
+cheapside,0.02378
+limehouse,0.02358
+sloane square,0.02356
+waterloo station,0.02354
+poland street,0.02327
+leadenhall street,0.02302
+camberwell,0.02294
+great suffolk street,0.02292
+euston square,0.02199
+hampstead heath,0.02132
+notting hill gate,0.02122
+wapping,0.02112
+palace gardens,0.02083
+albemarle street,0.02047
+albert hall,0.02038
+kennington,0.02006
+brompton road,0.01988
+primrose hill,0.01969
+holland park,0.01952
+great marlborough street,0.01949
+regent s park,0.01931
+eltham,0.0193
+soho square,0.0189
+hatton garden,0.01878
+wardour street,0.01877
+wimpole street,0.0185
+fitzroy square,0.01847
+kilburn,0.01808
+bayswater road,0.01799
+finchley road,0.01774
+old bond street,0.01773
+ladbroke grove,0.01719
+bruton street,0.01683
+roehampton,0.01674
+kensington high street,0.01672
+tottenham,0.01665
+finchley,0.01635
+gloucester road,0.01634
+welbeck street,0.01617
+charing cross,0.01614
+connaught,0.01612
+bermondsey,0.01604
+paddington station,0.01591
+east end of london,0.0158
+campden hill,0.01564
+threadneedle street,0.015
+bloomsbury square,0.01498
+bambridge,0.01494
+bulstrode,0.01488
+blackfriars bridge,0.01479
+walthamstow,0.01473
+ratcliffe highway,0.01455
+mincing lane,0.01452
+balham,0.01452
+west end of london,0.0143
+st james s hall,0.01384
+west hampstead,0.01333
+westbourne grove,0.01305
+kensal green,0.01298
+dover street,0.01294
+great russell street,0.01288
+south audley street,0.01285
+peckham,0.01267
+finsbury park,0.01251
+battersea park,0.01234
+eastcheap,0.01228
+dorset street,0.01213
+gracechurch street,0.01209
+dalston,0.012
+maida vale,0.01199
+bow street,0.01193
+west kensington,0.01189
+bishopsgate street,0.01188
+middle temple,0.01183
+lowndes square,0.0116
+pancras road,0.01152
+mile end road,0.0115
+minories,0.0115
+bethnal green,0.01131
+county hall,0.01122
+plumstead,0.01118
+stepney,0.01113
+stamford hill,0.01096
+old kent road,0.01092
+fenchurch street,0.01092
+dean street,0.01084
+cromwell road,0.01076
+upper brook street,0.01047
+great portland street,0.01042
+lothbury,0.01032
+leytonstone,0.01032
+ladywell,0.01021
+cafe royal,0.01018
+tyburnia,0.00997
+clapham junction,0.00995
+upper grosvenor street,0.00991
+st mungo,0.00985
+praed street,0.00978
+cheniston,0.00969
+stoke newington,0.00951
+south ken,0.00949
+belsize park,0.00942
+london hospital,0.00934
+whitecross street,0.00931
+lancaster gate,0.00926
+fulham palace road,0.00921
+cadogan square,0.00918
+euston station,0.00908
+belgravian,0.00906
+hungerford bridge,0.00906
+cheyne walk,0.00906
+eegent street,0.00903
+vigo street,0.00893
+castelneau,0.00891
+london town,0.00886
+great queen street,0.00883
+hornsey,0.0088
+penge,0.00872
+waterloo road,0.0087
+ebury street,0.00865
+grosvenor gallery,0.0086
+bouverie street,0.00849
+parliament square,0.00838
+northumberland avenue,0.00834
+marylebone road,0.0083
+new oxford street,0.00825
+lambeth bridge,0.00825
+onslow gardens,0.00818
+finsbury,0.00818
+mortimer street,0.00814
+leyton,0.00811
+red lion square,0.00811
+white hall,0.00811
+ebury,0.00798
+tate gallery,0.00798
+greenwich park,0.00797
+st james s palace,0.00794
+gresham street,0.00792
+old compton street,0.00791
+crawford street,0.00784
+cursitor street,0.00783
+cricklewood,0.00778
+portobello road,0.00777
+carlton house terrace,0.00767
+london parks,0.00761
+bryanstone square,0.00756
+kensington palace,0.00753
+gray s inn road,0.00748
+muswell hill,0.00744
+burlington gardens,0.00742
+north kensington,0.00741
+eccleston square,0.00736
+golders green,0.00734
+gibson square,0.00726
+manchester square,0.00714
+throgmorton street,0.00711
+holloway road,0.00709
+juxon,0.00702
+bedford row,0.00698
+moorfields,0.00698
+south kensington museum,0.00693
+stepney green,0.0069
+jamaica road,0.00688
+whitechapel road,0.00683
+red lion street,0.00681
+londres,0.00678
+gunnersbury,0.00678
+british museum,0.00675
+frith street,0.00671
+cloak lane,0.0067
+east hill,0.00667
+brixton road,0.00665
+highgate cemetery,0.00665
+beauchamp tower,0.00659
+lon don,0.00657
+brixton hill,0.00652
+whitehall,0.00648
+albert memorial,0.00647
+putney bridge,0.00646
+swaffield,0.00643
+queen s gate,0.00641
+haverstock hill,0.0064
+smith square,0.0064
+athole,0.00635
+london magazine,0.00634
+british islands,0.00632
+new burlington street,0.00629
+barnsbury park,0.00629
+wigmore street,0.00626
+nelson square,0.00618
+pembridge square,0.00617
+uxbridge road,0.00614
+marryat,0.00604
+shoe lane,0.00604
+rignold,0.00596
+new bond street,0.00595
+trinity square,0.0059
+battersea bridge,0.00589
+kilburn high road,0.00584
+campden hill square,0.00583
+hammersmith bridge,0.00581
+greek street,0.00581
+compton street,0.0058
+cockspur street,0.00578
+queen s square,0.00578
+coventry street,0.00571
+court road,0.00561
+hampstead road,0.00558
+westbourne terrace,0.00558
+walham green,0.00554
+silvertown,0.00553
+maygrove road,0.00545
+marlborough street,0.00545
+moorgate,0.00535
+vauxhall bridge,0.00535
+bryanston square,0.00534
+houndsditch,0.00532
+marshalsea,0.0053
+st george s hospital,0.00527
+goodge street,0.00523
+tavistock square,0.00518
+brick lane,0.00517
+king william street,0.00512
+brompton square,0.00507
+great russell street london,0.00505
+great ormond street,0.00502
+harecourt,0.005
+gloucester place,0.00499
+stamford bridge,0.00498
+carlton terrace,0.00496
+wanstead,0.00495
+albany street,0.00495
+mecklenburgh square,0.00492
+east ham,0.00491
+farringdon street,0.0049
+garamond,0.00489
+great george street,0.00484
+st ethelburga,0.00484
+lisson grove,0.0048
+leman street,0.00478
+liverpool street station,0.00477
+botolph lane,0.00476
+herne hill,0.00475
+brentham,0.00474
+tulse hill,0.00472
+lambeth road,0.0047
+basinghall street,0.0047
+denmark hill,0.0047
+doughty street,0.00468
+cornhill,0.00467
+blackfriars road,0.00466
+caledonian road,0.00465
+cadogan place,0.00464
+new cross,0.00464
+carnaby street,0.00464
+stockwell,0.00455
+compayne gardens,0.00454
+clifford street,0.00453
+beauchamp place,0.00451
+farringdon road,0.00443
+turnham green,0.00441
+wellclose square,0.0044
+heme hill,0.00436
+ely place,0.00436
+walworth road,0.00434
+clarges,0.0043
+central london,0.0043
+petticoat lane,0.00427
+tufnell park,0.00425
+montpelier square,0.00425
+pentonville road,0.00425
+tooley street,0.00425
+wilton crescent,0.00424
+new scotland yard,0.00422
+south hampstead,0.00422
+carlton house,0.00422
+aldgate east,0.00422
+guy s hospital,0.0042
+upper street,0.00418
+mafeking road,0.00417
+hyde park gardens,0.00412
+st paul s churchyard,0.00411
+st gildas,0.0041
+london street,0.00409
+st thomas s hospital,0.00409
+alwyne,0.00406
+furnival,0.00402
+cork street,0.004
+young england,0.00399
+farringdon,0.00395
+villiers street,0.00393
+connaught square,0.00393
+old street,0.00387
+pumblechook,0.00386
+weymouth street,0.00385
+st james street,0.00385
+berners street,0.00379
+great tower street,0.00377
+wardour,0.00376
+old broad street,0.00373
+america square,0.00371
+goswell road,0.0037
+cumberland hotel,0.00369
+paddington green,0.00368
+hammersmith broadway,0.00366
+london bridge station,0.00364
+railton road,0.00364
+netherhall gardens,0.00364
+ormond street,0.00362
+mitre street,0.00362
+new ormond street,0.00362
+fetter lane,0.00361
+covent garden market,0.00359
+kilburn park,0.00359
+west end lane,0.00356
+gray s inn lane,0.00355
+bucklersbury,0.00353
+granta,0.00353
+albert bridge,0.00353
+aldersgate street,0.00351
+kensington church street,0.00351
+westbourne park,0.0035
+warwick gardens,0.00349
+commercial road,0.00349
+onslow square,0.00348
+kensington gore,0.00345
+hendon hall,0.00345
+montagu square,0.00345
+cranbourne alley,0.00344
+kennington road,0.00343
+lambeth,0.00343
+st bartholomew s hospital,0.00342
+broadhurst gardens,0.00342
+elgood street,0.00339
+coldharbour lane,0.00339
+camden road,0.00339
+scrope,0.00337
+edric,0.00334
+acre lane,0.00334
+london wall,0.00331
+stanhope gate,0.0033
+south kensing,0.0033
+brockwell park,0.00327
+vauxhall gardens,0.00325
+north end road,0.00324
+guilford street,0.00324
+streatham hill,0.00321
+chester square,0.00316
+poplar,0.00315
+wellington barracks,0.00315
+totteridge,0.00314
+berwick street,0.00314
+change alley,0.00313
+covent garden theatre,0.00312
+east finchley,0.00309
+pont street,0.00309
+theobald s road,0.00308
+anerley,0.00308
+southwark bridge,0.00308
+lower thames street,0.00308
+cumberland gate,0.00307
+chingford,0.00304
+montague square,0.00302
+quex road,0.00301
+bethnal green road,0.00301
+barnsbury,0.00301
+st thomas s street,0.003
+moorgate street,0.00299
+tristram shandy,0.00298
+great northern hotel,0.00295
+malmsey,0.00294
+horseferry road,0.00292
+albert gate,0.00289
+gutter lane,0.00288
+kensington palace gardens,0.00288
+south quay,0.00288
+borough road,0.00287
+tavistock street,0.00287
+southampton row,0.00285
+st pancras station,0.00285
+marylebone gardens,0.00284
+childeric,0.00283
+holborn bridge,0.00282
+floral street,0.00281
+finsbury square,0.00279
+bread street,0.00278
+hoxton square,0.00277
+catford,0.00276
+port man square,0.00275
+camden hill,0.00274
+canning town,0.00273
+barbican,0.00271
+inner temple,0.0027
+thornhaugh street,0.0027
+belgrave road,0.0027
+turnmill street,0.00269
+birchin lane,0.00268
+hertford street,0.00265
+stamford brook,0.00265
+queen victoria street,0.00264
+camden lock,0.00264
+london city,0.00262
+wigmore hall,0.00262
+new street square,0.00261
+kensal green cemetery,0.00261
+bury street,0.0026
+meard street,0.0026
+phillimore gardens,0.00259
+ratcliff highway,0.00258
+homerton,0.00257
+east dulwich,0.00257
+hurlingham,0.00256
+chesterfield street,0.00256
+st marylebone,0.00256
+clapham common,0.00254
+lower sloane street,0.00253
+museum street,0.00253
+albert museum,0.00252
+holborn viaduct,0.00252
+sternhold,0.00252
+st thomas s,0.00251
+liverpool road,0.00249
+hanbury street,0.00248
+warwick avenue,0.00248
+hornsey wood,0.00248
+st dunstan s hill,0.00246
+somers town,0.00246
+dulwich gallery,0.00246
+camden high street,0.00245
+queenhithe,0.00244
+eegent s park,0.00244
+aldwych,0.00244
+victoria tower,0.00244
+neustria,0.00243
+savoy hill,0.00241
+birdcage walk,0.00239
+vauxhall bridge road london,0.00239
+prince regent,0.00238
+hatchard,0.00237
+battersea fields,0.00237
+charing cross station,0.00236
+upper norwood,0.00236
+leather lane,0.00235
+priory park,0.00234
+earls court,0.00234
+white hart lane,0.00234
+north finchley,0.00233
+south kensington station,0.00233
+calthorpe street,0.00233
+paternoster square,0.00232
+gros venor square,0.0023
+southwell gardens,0.0023
+turnbull street,0.00228
+port land place,0.00228
+campden hill road,0.00228
+shakespeare gallery,0.00226
+caven dish square,0.00225
+leicester house,0.00223
+almeida,0.00223
+old brompton road,0.00222
+great college street,0.00222
+great sutton street,0.00221
+kensington road,0.0022
+westminster bridge road,0.00218
+grays inn road,0.00218
+lower belgrave street,0.00217
+marble arch,0.00217
+marylebone high street,0.00215
+bunhill,0.00215
+hanipstead,0.00214
+stamford street,0.00214
+marylebone lane,0.00211
+great court,0.00211
+grosvenor gardens,0.00211
+strutton ground,0.0021
+west brompton,0.00209
+kegent street,0.00208
+raynes park,0.00206
+holland park avenue,0.00205
+petty france,0.00205
+st martin s street,0.00205
+haggerston,0.00205
+chiswick high road,0.00204
+guildford street,0.00202
+prince of wales road,0.00202
+tothill street,0.00202
+frontispiece,0.00202
+latimer road,0.00202
+bolton gardens,0.00201
+pleasaunce,0.002
+ilampstead,0.002
+great titchfield street,0.002
+f r g s ,0.00199
+vice warden,0.00198
+wood green,0.00197
+harlesden,0.00197
+lon don bridge,0.00196
+beckton,0.00193
+adelphi terrace,0.00193
+hatherley road,0.00193
+scot land yard,0.00193
+beany,0.00192
+cable street,0.00192
+inchbold,0.00191
+rosebery avenue,0.00191
+millennium dome,0.00191
+embankment gardens,0.00191
+elvaston place,0.00189
+rathbone place,0.00189
+harrods,0.00187
+pentonwille,0.00186
+caxton hall,0.00186
+canonbury,0.00185
+middle temple lane,0.00185
+mort lake,0.00184
+pentonville prison,0.00184
+london railway,0.00183
+dollis hill,0.00182
+canary wharf,0.00182
+sussex gardens,0.00182
+goldhawk road,0.0018
+highgate wood,0.0018
+new kent road,0.00179
+kingsland road,0.00179
+buckingham palace road,0.00179
+wandsworth road,0.00179
+lalage,0.00178
+neasden,0.00178
+westbourne park road,0.00177
+greenwich palace,0.00177
+southwark street,0.00177
+victoria dock,0.00176
+hyde park gate,0.00176
+pudding lane,0.00176
+burlington arcade,0.00175
+lollard,0.00173
+london clinic,0.00172
+hanwell,0.00171
+tollington park,0.00171
+torrington square,0.00171
+dowgate hill,0.0017
+camomile street,0.0017
+curtain road,0.00168
+cadogan gardens,0.00168
+denbigh street,0.00167
+brockley,0.00167
+fulham broadway,0.00166
+hammersmith road,0.00166
+downshire hill,0.00166
+london ,0.00166
+lambeth palace,0.00165
+nunhead,0.00165
+gray s inn square,0.00165
+hampstead garden suburb,0.00165
+rhodesia house,0.00164
+panton street,0.00164
+euston road london,0.00164
+east india dock road,0.00164
+pall mall east,0.00163
+holloway gaol,0.00163
+brondesbury,0.00163
+dolphin square,0.00163
+london dock,0.00163
+kentish village,0.00162
+peckham rye,0.00162
+queen square london,0.00161
+chenies street,0.00161
+north audley street,0.0016
+billiter street,0.0016
+upton park,0.0016
+coleman street,0.0016
+islington green,0.00159
+st paul s cathedral,0.00159
+hanway street,0.00158
+willesden green,0.00158
+st john s street,0.00157
+cremorne gardens,0.00156
+edwardes square,0.00156
+knightrider street,0.00156
+willesden junction,0.00155
+roehamp,0.00155
+tavistock place,0.00155
+tate modern,0.00155
+sidmouth street,0.00155
+flood street,0.00153
+pavilion road,0.00153
+central hall,0.00152
+whitechapel high street,0.00152
+cutty sark,0.00151
+kensington park road,0.0015
+kennington oval,0.0015
+saint james s park,0.0015
+high holborn,0.00149
+edgeware road,0.00148
+great ormond street hospital,0.00147
+clapham road,0.00147
+worship street,0.00147
+alexandra palace,0.00146
+clarkenwell,0.00144
+upper richmond road,0.00143
+lammas,0.00143
+paddington basin,0.00143
+lupus street,0.00142
+holloway prison,0.00142
+stoughton london,0.00141
+chalk farm road,0.00141
+pimlico road,0.00141
+st clement danes,0.00141
+belsize,0.0014
+cat hill,0.0014
+earls court road,0.0014
+london charities,0.00139
+parsons green,0.00139
+battersea park road,0.00139
+turnpike lane,0.00137
+vanburgh,0.00137
+lady hertford,0.00137
+tenos,0.00137
+pennyfields,0.00137
+east sheen,0.00137
+whitechapel art gallery,0.00136
+ennismore gardens,0.00136
+bench walk,0.00136
+camberwell new road,0.00134
+westminster palace,0.00134
+m r c s eng ,0.00134
+putney high street,0.00134
+buckingham gate,0.00133
+midland hotel,0.00133
+serpentine gallery,0.00133
+covcnt garden,0.00133
+margiana,0.00132
+turnagain lane,0.00132
+st antholin,0.00132
+st george s fields,0.00132
+south bank centre,0.00132
+guildhall banquet,0.00131
+ealing broadway,0.00131
+london london,0.00131
+greville place,0.00131
+ken sington gardens,0.0013
+convent garden,0.0013
+forest gate,0.0013
+shirland road,0.00129
+royal opera house,0.00129
+great coram street,0.00129
+saffron hill,0.00129
+tottenham road,0.00128
+gloucester gate,0.00128
+commercial road east,0.00128
+merton road,0.00128
+brompton oratory,0.00128
+vauxhall bridge rd,0.00127
+glebe place,0.00127
+clare market,0.00127
+brompton cemetery,0.00126
+almayne,0.00126
+de vere gardens,0.00126
+garrick street,0.00126
+totten ham court road,0.00126
+margaret street,0.00125
+cock lane,0.00125
+white cross street,0.00125
+devonshire street,0.00125
+great james street,0.00124
+basuto,0.00123
+gray s inn,0.00122
+holland road,0.00122
+cannon street station,0.00122
+norwood cemetery,0.00122
+vincent square,0.00121
+norbury park,0.00121
+queens square,0.0012
+talfourd,0.0012
+st george s in the east,0.0012
+hans place,0.0012
+brown s hotel,0.00119
+st mary le strand,0.00119
+wandsworth common,0.00119
+kllburn,0.00119
+clanricarde gardens,0.00118
+fenchurch street station,0.00118
+chiswick mall,0.00118
+craven hill,0.00117
+st james square,0.00116
+aegean islands,0.00116
+cheshire cheese,0.00116
+methuen london,0.00116
+dornton,0.00116
+dyott street,0.00116
+londok,0.00115
+rotherhith,0.00115
+hornsey road,0.00114
+brompton road london,0.00114
+victoria palace,0.00114
+cam den town,0.00113
+hendon,0.00113
+hackney empire,0.00113
+big ben,0.00113
+porchester terrace,0.00113
+davies street,0.00112
+thurloe square,0.00112
+marchmont street,0.00112
+kensington museum,0.00111
+haymarket theatre,0.00111
+wanstead flats,0.00111
+petty wales,0.00111
+westbourne green,0.0011
+claremont square,0.0011
+archway road,0.00109
+camberwell green,0.00109
+charing cross hospital,0.00109
+hotel london,0.00108
+new bond street london,0.00108
+st martin s le grand,0.00108
+battersea power station,0.00108
+south molton street,0.00108
+brushfield street,0.00108
+brixton prison,0.00108
+west india dock,0.00107
+lillie bridge,0.00107
+tavistock hotel,0.00106
+bunhill fields,0.00106
+east cheap,0.00106
+cadogan street,0.00106
+cressingham,0.00106
+southwark bridge road,0.00106
+rosslyn hill,0.00105
+little russell street,0.00105
+ave maria lane,0.00104
+hatchards,0.00104
+lancaster house,0.00103
+cranbourn alley,0.00103
+arlingford,0.00102
+newington green,0.00102
+st edmund the king,0.00101
+aldermanbury,0.00101
+tottenham lane,0.00101
+london docks,0.001
+wakefield tower,0.001
+colney hatch,0.001
+westminster cathedral,0.001
+seething lane,0.00099
+lea bridge,0.00099
+ledbury road,0.00099
+devonshire terrace,0.00099
+great smith street,0.00098
+spital fields,0.00098
+jermyn st ,0.00098
+northumberland house,0.00098
+dowgate,0.00098
+woodgreen,0.00097
+harringay,0.00097
+markham square,0.00097
+lansdowne crescent,0.00097
+winchmore,0.00097
+milkwood road,0.00097
+royal court theatre,0.00097
+addle hill,0.00097
+lexham gardens,0.00096
+great st helen,0.00096
+bow road,0.00096
+bentinck street,0.00096
+st pancras church,0.00096
+hackney downs,0.00096
+canon street,0.00096
+gough square,0.00096
+theobalds road,0.00095
+titchfield street,0.00095
+holborn empire,0.00095
+golders green road,0.00094
+tothill fields,0.00094
+cromwell gardens,0.00094
+hackney wick,0.00094
+london coliseum,0.00094
+maida hill,0.00093
+whitecross street prison,0.00093
+zoological garden,0.00093
+sloane square station,0.00093
+west minster bridge,0.00093
+upper thames street,0.00093
+old palace yard,0.00093
+paris garden,0.00093
+garrick theatre,0.00093
+henrietta street london,0.00092
+lancaster place,0.00092
+wastdale,0.00092
+ravenscourt park,0.00092
+waterlow park,0.00092
+newington butts,0.00092
+euston square station,0.00092
+leicester galleries,0.00092
+columbia road,0.00091
+st james s park station,0.00091
+holloway jail,0.00091
+dalston junction,0.00091
+endell street,0.00091
+air street,0.0009
+royal hospital road,0.0009
+belmarsh,0.0009
+chester gate,0.0009
+king s cross,0.0009
+hospital road,0.0009
+spital square,0.00089
+great new street,0.00089
+southampton st ,0.00089
+great turnstile,0.00089
+eaton gate,0.00089
+maryle,0.00089
+hackney hospital,0.00088
+marsham street,0.00088
+ritz hotel,0.00088
+spenlow,0.00087
+clerkenwell green,0.00087
+old brompton,0.00086
+bechstein hall,0.00086
+australia house,0.00086
+wandsworth prison,0.00086
+south molton st ,0.00086
+trafal gar square,0.00085
+golden square london,0.00085
+british island,0.00085
+clerkenwell road,0.00085
+chiswick gardens,0.00085
+throgmorton,0.00085
+leicester street,0.00085
+st paul s church yard,0.00085
+hammersmith odeon,0.00085
+lewisham road,0.00085
+highbury hill,0.00085
+whittington hospital,0.00084
+clissold park,0.00084
+hammersmith hospital,0.00084
+st luke s square,0.00084
+almeida theatre,0.00084
+golborne road,0.00083
+st clement s lane,0.00083
+old vic,0.00083
+highgate woods,0.00082
+lollard s tower,0.00082
+portman street,0.00082
+tra falgar square,0.00082
+victoria line,0.00082
+queen consort,0.00082
+russell square london,0.00082
+iiondon,0.00082
+st peter s street,0.00081
+st pancras town hall,0.00081
+rutland gate,0.00081
+corinthia,0.00081
+highgate village,0.00081
+goswell street,0.00081
+manchester street,0.00081
+clapham high street,0.0008
+harrington gardens,0.0008
+chepstow villas,0.0008
+british museum library,0.0008
+kegent s park,0.0008
+new north road,0.0008
+moorgate street station,0.0008
+kensington gravel pits,0.0008
+dyot street,0.00079
+bishopsgate,0.00079
+chiffinch,0.00079
+strand palace hotel,0.00079
+holborn bars,0.00079
+clerken,0.00078
+broadwick,0.00078
+elizabethan london,0.00077
+london palladium,0.00077
+well hall,0.00077
+philpot street,0.00077
+st clement s danes,0.00077
+cricklewood broadway,0.00077
+penywern road,0.00076
+modern england,0.00076
+loughborough road,0.00075
+chiswell street,0.00075
+winchmore hill,0.00075
+roland gardens,0.00075
+dorset square,0.00075
+bel grave square,0.00075
+prince s gardens,0.00074
+bermondsey abbey,0.00074
+london longmans,0.00074
+manchester square london,0.00074
+blackfriar s bridge,0.00074
+great st helens,0.00073
+wellington lodge,0.00073
+treadgold,0.00073
+essex road,0.00073
+beak street,0.00073
+white city stadium,0.00073
+west norwood,0.00072
+praed,0.00072
+west hamp,0.00072
+snaresbrook,0.00072
+st bride s churchyard,0.00072
+frankau,0.00072
+kennington park road,0.00072
+whitechapel gallery,0.00072
+st bartholo mew s hospital,0.00072
+centre point,0.00071
+jubilee gardens,0.00071
+sadler s wells,0.0007
+south wark bridge,0.0007
+marylebone station,0.0007
+lillie road,0.0007
+royal festival hall,0.0007
+london mail,0.0007
+wimbledon park,0.00069
+lud gate,0.00069
+tibbald,0.00069
+bessborough gardens,0.00069
+palace gardens terrace,0.00069
+abchurch lane,0.00068
+nile delta,0.00068
+white lion street,0.00068
+jarndyce,0.00067
+friern barnet,0.00067
+norton folgate,0.00067
+kennington common,0.00067
+covent garden opera,0.00066
+mare street,0.00066
+northcote road,0.00066
+cadogan hotel,0.00066
+woburn square,0.00066
+albermarle street,0.00066
+finsbury pavement,0.00066
+clapham park,0.00066
+new london bridge,0.00066
+queen s tower,0.00066
+hattou garden,0.00065
+chesham place,0.00065
+oldroyd,0.00065
+belsize road,0.00065
+gipsy hill,0.00065
+west india dock road,0.00065
+philbeach gardens,0.00065
+montague place,0.00065
+totham,0.00064
+inchbald,0.00064
+south africa house,0.00064
+frognal,0.00063
+portland vase,0.00063
+grosveuor square,0.00063
+parson s green,0.00063
+knightsbridge barracks,0.00063
+taviton street,0.00063
+kingsway hall,0.00063
+london labour,0.00062
+british library,0.00062
+lincoln s inn hall,0.00062
+islington high street,0.00062
+east heath road,0.00062
+st martins lane,0.00061
+knightsbridge green,0.00061
+west end london,0.00061
+camberwell grove,0.00061
+faringdon road,0.00061
+abbey wood,0.0006
+soho square london,0.0006
+coburg theatre,0.0006
+vestminster hall,0.0006
+old jewry,0.0006
+vincula,0.0006
+lewisham hill,0.0006
+temple station,0.0006
+barnes bridge,0.0006
+tallis street,0.00059
+aytoun,0.00059
+barking creek,0.00059
+hopton street,0.00059
+covent gardens,0.00059
+fournier street,0.00059
+rochester row,0.00059
+chalton street,0.00059
+north acton,0.00059
+birkbeck,0.00059
+west bourne grove,0.00059
+wliitehall,0.00059
+camden market,0.00058
+leadenhall market,0.00058
+st john s hill,0.00058
+tokenhouse yard,0.00058
+halkin street,0.00058
+st john s wood park,0.00058
+grove end road,0.00057
+eotherhithe,0.00057
+foster lane,0.00057
+craven hill gardens,0.00057
+norwood junction,0.00057
+inner london,0.00057
+fitzhardinge street,0.00057
+old swan stairs,0.00057
+hampstead lane,0.00057
+lowndes street,0.00057
+crutched friars,0.00057
+brixton station,0.00056
+karnac,0.00056
+boulestin,0.00056
+pottery lane,0.00056
+gloucester crescent,0.00056
+bird cage walk,0.00056
+exhibition road,0.00056
+rosary gardens,0.00056
+queen elizabeth hall,0.00056
+goswell street road,0.00056
+shadwell basin,0.00055
+lots road,0.00055
+wandsworth bridge,0.00055
+gloucester terrace,0.00055
+london bank,0.00055
+saint james s square,0.00055
+copse hill,0.00055
+cazenove,0.00055
+upper tulse hill,0.00054
+redcliffe gardens,0.00054
+leinster gardens,0.00054
+garlick hill,0.00054
+mansion house station,0.00054
+st john street road,0.00054
+st john s gate,0.00053
+tabard street,0.00053
+wormwood scrubs,0.00053
+victoria coach station,0.00053
+london office,0.00053
+maitland park road,0.00053
+portland gallery,0.00052
+hakluyt,0.00052
+charterhouse square,0.00052
+greenwich hill,0.00052
+paphlagonia,0.00052
+london paris,0.00052
+chesterfield house,0.00052
+canada square,0.00052
+monkwell street,0.00052
+little newport street,0.00052
+portland hospital,0.00052
+worple road,0.00052
+chiswick park,0.00051
+blackhorse road,0.00051
+great alie street,0.00051
+great dover street,0.00051
+maresfield gardens,0.00051
+kendal road,0.00051
+palmers green,0.00051
+supreme being,0.00051
+south norwood,0.00051
+down street,0.00051
+broadcasting house,0.0005
+city rd ,0.0005
+highbury barn,0.0005
+du cane road,0.0005
+bohemian london,0.0005
+covent garden opera house,0.0005
+poplar walk,0.00049
+london city mission,0.00049
+inner temple lane,0.00049
+lud gate hill,0.00049
+highgate archway,0.00049
+royal garden hotel,0.00049
+south audley,0.00049
+pycroft,0.00049
+pembridge gardens,0.00049
+clerkenwcll,0.00049
+westminster palace hotel,0.00049
+bank of england,0.00048
+marshalsea prison,0.00048
+st mar tin s lane,0.00048
+macfarren,0.00048
+muswell hill road,0.00048
+mostyn road,0.00048
+st sepulchres,0.00048
+laurillard,0.00048
+oovent garden,0.00048
+wandsworth bridge road,0.00048
+upper edmonton,0.00048
+st john s wood road,0.00047
+colville square,0.00047
+stratford le bow,0.00047
+buckingham palace hotel,0.00047
+hackney marshes,0.00047
+southwark park road,0.00047
+golden hind,0.00047
+char ing cross,0.00047
+upper belgrave street,0.00046
+bloody tower,0.00046
+moorgate place,0.00046
+inverness terrace,0.00046
+voysey,0.00046
+west bourne park,0.00046
+portpool lane,0.00046
+royal albert hall,0.00046
+bishopgate,0.00046
+queenstown road,0.00046
+lewisham way,0.00045
+bedfordbury,0.00045
+shoreditch high street,0.00045
+clareville grove,0.00045
+manor park road,0.00045
+green wich park,0.00045
+whiteleys,0.00045
+vapour baths,0.00045
+vauxhall road,0.00045
+camden passage,0.00045
+dulwich park,0.00045
+store street,0.00045
+coptic street,0.00044
+acton green,0.00044
+kensington garden,0.00044
+maze hill,0.00044
+ridgmount gardens,0.00044
+devonshire house,0.00044
+great guildford street,0.00044
+bclgravia,0.00044
+queen s gallery,0.00044
+montagu place,0.00044
+gower street station,0.00043
+adelphi theatre,0.00043
+balls pond road,0.00043
+balham high road,0.00043
+st sepulchre s,0.00043
+parliament,0.00043
+birchin,0.00043
+vere street,0.00043
+battersea bridge road,0.00043
+london station,0.00042
+east india house,0.00042
+ossulston,0.00042
+eltham palace,0.00042
+prince consort road,0.00042
+redcliffe square,0.00042
+queens gate,0.00042
+kuyunjik,0.00042
+cumberland terrace,0.00042
+tumham green,0.00042
+great winchester street,0.00041
+paddington canal,0.00041
+hampstead garden,0.00041
+toynbee hall,0.00041
+sobo square,0.00041
+lord southampton,0.00041
+cainberwell,0.00041
+south lambeth,0.00041
+lmdon,0.00041
+ilolborn,0.00041
+grand signor,0.00041
+west minster bridge road,0.00041
+archer street,0.00041
+south hamp,0.00041
+south wark street,0.00041
+kentish town road,0.0004
+upper wimpole street,0.0004
+bagnigge,0.0004
+endsleigh gardens,0.0004
+maclise,0.0004
+tenterden street,0.0004
+broadwick street,0.00039
+blomfield road,0.00039
+marylebone street,0.00039
+victoria embankment,0.00039
+great scotland yard,0.00039
+drayton gardens,0.00039
+carter lane london,0.00039
+sotheran,0.00039
+westminister,0.00039
+well hall road,0.00039
+lambetb,0.00038
+hammersmith palais,0.00038
+upper st martin s lane,0.00038
+jennyn street,0.00038
+co vent garden,0.00038
+ranelagh gardens,0.00038
+ball s pond,0.00038
+lonuon,0.00038
+london season,0.00038
+mitre square,0.00038
+prince albert road,0.00038
+guildhall yard,0.00038
+oamberwell,0.00038
+middle tem,0.00038
+lansdowne house,0.00037
+merton park,0.00037
+park village east,0.00037
+crosby place,0.00037
+beckton road,0.00037
+jewin,0.00037
+queen anne s gate,0.00037
+st george s square,0.00037
+blechynden,0.00037
+umfreville,0.00037
+marylehone,0.00037
+loiidoii,0.00037
+cornliill,0.00037
+arbour square,0.00036
+st dunstan in the east,0.00036
+st mary at hill,0.00036
+crosby hall,0.00036
+moor elds,0.00036
+old church street,0.00036
+shaftesbury theatre,0.00036
+london hilton,0.00036
+threadneedle,0.00036
+covent garden piazza,0.00036
+lewisham high street,0.00036
+lamheth,0.00036
+camherwell,0.00036
+chepstow road,0.00036
+london tower,0.00036
+stanford bridge,0.00036
+waterloo street,0.00036
+london england,0.00035
+hackney road,0.00035
+armit,0.00035
+newington causeway,0.00035
+middlesex polytechnic,0.00035
+mildmay park,0.00035
+b l ,0.00035
+exchange alley,0.00035
+losdon,0.00035
+great prescot street,0.00035
+west london hospital,0.00035
+college garden,0.00034
+oxendon street,0.00034
+stamford st ,0.00034
+bulstrode street,0.00034
+agar town,0.00034
+kensal rise,0.00034
+farm street,0.00034
+woolwicli,0.00034
+upper holloway,0.00034
+fulbam,0.00034
+whitgift,0.00033
+devereux tower,0.00033
+east acton,0.00033
+greater japan,0.00033
+dartmouth park,0.00033
+bethnal green museum,0.00033
+middle hall,0.00033
+lower clapton road,0.00033
+hungerford suspension bridge,0.00033
+camden town station,0.00033
+great tower hill,0.00033
+shaftsbury avenue,0.00033
+ashburn gardens,0.00032
+london port,0.00032
+lord hood,0.00032
+savoy chapel,0.00032
+seacoal lane,0.00032
+parliament of great britain,0.00032
+cannon street road,0.00032
+coldbath fields,0.00032
+harrington road,0.00032
+portland road station,0.00032
+west cromwell road,0.00032
+london museum,0.00032
+londonin,0.00032
+brompton hospital,0.00032
+russell hotel,0.00031
+bampfylde,0.00031
+wanstead park,0.00031
+south belgravia,0.00031
+moorfields eye hospital,0.00031
+highbury corner,0.00031
+upper homerton,0.00031
+windmill street,0.00031
+lodon,0.00031
+london waterloo,0.00031
+simurgh,0.00031
+glengall road,0.00031
+malet street,0.0003
+battersea rise,0.0003
+st j ames s park,0.0003
+dean s yard,0.0003
+oheapside,0.0003
+bartholomew close,0.0003
+gore house,0.0003
+daleham,0.0003
+london west end,0.0003
+redwald,0.0003
+upper woburn place,0.0003
+billiter lane,0.0003
+batty langley,0.0003
+st peter s vicarage,0.0003
+greenwich observa,0.0003
+whitehall palace,0.0003
+bellenden,0.0003
+hertford house,0.0003
+billiter square,0.0003
+chesilton,0.00029
+wilmington square,0.00029
+westow street,0.00029
+park square east,0.00029
+fleet river,0.00029
+tibeto burman,0.00029
+st bride s church,0.00029
+chcapside,0.00029
+blackstock road,0.00029
+st james st ,0.00029
+upper tooting,0.00029
+vaux hall gardens,0.00029
+gloucester square,0.00029
+powis square,0.00029
+gloucester avenue,0.00029
+redfern gallery,0.00029
+old baile,0.00029
+st james s market,0.00028
+govent garden,0.00028
+malbrook,0.00028
+vestminster,0.00028
+fulbourne road,0.00028
+middlesex poly,0.00028
+u c l ,0.00028
+trecothick,0.00028
+st george the martyr,0.00028
+london festival ballet,0.00028
+st pancras road,0.00028
+st james hall,0.00028
+stroud green road,0.00028
+horselydown,0.00028
+royal laboratory,0.00028
+west ken,0.00027
+lewisham town hall,0.00027
+drummond street,0.00027
+edg ware road,0.00027
+streatham high road,0.00027
+nassington road,0.00027
+oornhill,0.00027
+great eastcheap,0.00027
+finsbury fields,0.00027
+west ham lane,0.00027
+ladbroke square,0.00027
+lea bridge road,0.00027
+wentworth place,0.00027
+london branch,0.00027
+woolwich,0.00027
+earls court square,0.00027
+new southgate,0.00027
+londoun,0.00027
+conway hall,0.00027
+london miss,0.00027
+durham place,0.00027
+thorney island,0.00026
+caprini,0.00026
+st swithin s lane,0.00026
+limehouse basin,0.00026
+clerkenwell prison,0.00026
+royal college of art,0.00026
+william iv street,0.00026
+kensington park gardens,0.00026
+denmark street,0.00026
+london fever hospital,0.00026
+east putney,0.00026
+st mary overies,0.00026
+oxford st ,0.00026
+wardour st ,0.00026
+brompton rd ,0.00026
+cromer street,0.00026
+lewisham hospital,0.00026
+geffrye museum,0.00026
+tate britain,0.00026
+hyde park comer,0.00025
+mabledon place,0.00025
+londra,0.00025
+wellington statue,0.00025
+londqn,0.00025
+westcombe hill,0.00025
+cambridge heath road,0.00025
+cambridge heath,0.00025
+victoria tower gardens,0.00025
+canonbury road,0.00025
+canonbury square,0.00025
+u s a london,0.00025
+alban hall,0.00025
+pennethorne,0.00025
+roehampton lane,0.00025
+carlyle square,0.00025
+ludoate hill,0.00025
+burlington street,0.00025
+woburn place,0.00025
+lincoln s inn,0.00025
+great windmill street,0.00024
+lambeth palace road,0.00024
+woodford hall,0.00024
+rectory road,0.00024
+tregunter road,0.00024
+cannon st ,0.00024
+porchester hall,0.00024
+grosvenor crescent,0.00024
+honor oak park,0.00024
+selhurst,0.00024
+streatham vale,0.00024
+lambeth town hall,0.00024
+guildhall library,0.00024
+shoreditch town hall,0.00024
+nehru centre,0.00024
+brick court,0.00024
+great eastern road,0.00024
+royal observatory,0.00024
+greenwich meridian,0.00024
+st martin in the fields,0.00023
+west kensing,0.00023
+tite street,0.00023
+bedford square london,0.00023
+outer temple,0.00023
+royal free hospital,0.00023
+soviet trade delegation,0.00023
+bennondsey,0.00023
+royal horticultural hall,0.00023
+southwark cathedral,0.00023
+spreckley,0.00023
+leicester square theatre,0.00023
+bacovia,0.00023
+chelsea bridge road,0.00023
+little college street,0.00023
+great peter street,0.00023
+manciple,0.00023
+hallam street,0.00023
+great newport street,0.00022
+royal hill,0.00022
+shad thames,0.00022
+holbech,0.00022
+holland park mews,0.00022
+chrysos,0.00022
+modern britain,0.00022
+maryle bone road,0.00022
+fortess road,0.00022
+marlboro street,0.00022
+piccadilly hotel,0.00022
+east lon,0.00022
+torriano,0.00022
+old baily,0.00021
+hampslead,0.00021
+albe marle street,0.00021
+cranbourn street,0.00021
+gray s inn gardens,0.00021
+hornsey park,0.00021
+london polytechnics,0.00021
+oxford street london,0.00021
+penton street,0.00021
+upper clapton,0.00021
+rosoman street,0.00021
+england london,0.00021
+waltheof,0.00021
+etheldreda,0.00021
+london cemetery,0.00021
+hatton gardens,0.0002
+yarico,0.0002
+leinster square,0.0002
+multon,0.0002
+st james s hotel,0.0002
+jacob s island,0.0002
+grayes inne,0.0002
+hungerford stairs,0.0002
+east india station,0.0002
+lichnowsky,0.0002
+the theatre,0.0002
+eoehampton,0.0002
+baglioni,0.0002
+musard,0.0002
+hatcham,0.0002
+grosvenor house hotel,0.0002
+throgmorton avenue,0.0002
+cartwright gardens,0.0002
+hanina,0.00019
+abbey orchard street,0.00019
+addison bridge,0.00019
+goupil gallery,0.00019
+fulham bridge,0.00019
+eltham park,0.00019
+effra,0.00019
+east smithfield,0.00019
+harnham,0.00019
+painted hall,0.00019
+palace gate,0.00019
+guys hospital,0.00019
+ski club of great britain,0.00019
+copthall avenue,0.00019
+ebury bridge,0.00019
+kensal town,0.00019
+streatham hill station,0.00018
+new fetter lane,0.00018
+hayward gallery,0.00018
+kensington hotel,0.00018
+millbank tower,0.00018
+outer london,0.00018
+kidbrooke,0.00018
+willesden lane,0.00018
+thorowgood,0.00018
+belsize lane,0.00018
+child s hill,0.00018
+canfield gardens,0.00018
+aldgate station,0.00018
+west acton,0.00018
+london gallery,0.00018
+betterton street,0.00018
+nether hall,0.00018
+west india docks,0.00018
+bounds green road,0.00018
+hamstead road,0.00017
+talgarth road,0.00017
+st martin le grand,0.00017
+england bank,0.00017
+prince of wales theatre,0.00017
+east fulham,0.00017
+waddington gallery,0.00017
+lisson gallery,0.00017
+west indian station,0.00017
+st george in the east,0.00017
+cannon street hotel,0.00017
+gledhow gardens,0.00017
+sardinia street,0.00017
+calais gate,0.00017
+southwark park,0.00017
+millennium bridge,0.00017
+royal opera,0.00017
+vestminster bridge,0.00017
+mandeville place,0.00017
+new compton street,0.00017
+short s gardens,0.00017
+lord palmerston,0.00017
+thrcadneedle street,0.00017
+sydenham hill,0.00016
+st dunstan s in the west,0.00016
+london joint city,0.00016
+midland grand hotel,0.00016
+croxted road,0.00016
+bankof england,0.00016
+bride lane,0.00016
+myddleton square,0.00016
+kotherhithe,0.00016
+heneage,0.00016
+seymour place,0.00016
+cheyne row,0.00016
+westboume grove,0.00016
+exeter street,0.00015
+begent street,0.00015
+regency street,0.00015
+eondon,0.00015
+london sw1,0.00015
+f r c p lond ,0.00015
+kilburn priory,0.00015
+bloomsbury square london,0.00015
+ampton street,0.00015
+london hotel,0.00015
+upper harley street,0.00015
+mornington crescent,0.00015
+summerstown,0.00015
+furnivall,0.00015
+claverton street,0.00015
+ossulston street,0.00014
+barbican centre,0.00014
+brisbane road,0.00014
+creechurch lane,0.00014
+saville row,0.00014
+national hospital,0.00014
+earlsfield,0.00014
+graeechurch street,0.00014
+soho london,0.00014
+highbury grove,0.00014
+govern garden,0.00013
+london brighton,0.00013
+london lodge,0.00013
+marloes road,0.00013
+carmelite street,0.00013
+london docklands,0.00013
+new left review,0.00013
+parkside hospital,0.00013
+tottenham street,0.00013
+langbourne,0.00013
+aldgatc,0.00013
+tenter street,0.00013
+pancras,0.00012
+abingdon street,0.00012
+haymarket street,0.00012
+cheapsidc,0.00012
+allenswood,0.00012
+st thomas s chapel,0.00012
+bethnal,0.00012
+west stratford,0.00012
+north woolwich,0.00012
+berkeley square house,0.00012
+kensal new town,0.00012
+portsoken,0.00012
+lordship lane,0.00012
+spital elds,0.00012
+stroud green,0.00012
+glentworth street,0.00012
+pentonville road london,0.00012
+winchilsea,0.00012
+stationer s hall,0.00012
+cappagh,0.00012
+olerkenwell,0.00012
+orgar,0.00012
+st bar tholomew s hospital,0.00012
+new river head,0.00011
+mottingham,0.00011
+st alfege,0.00011
+woolwich road,0.00011
+victoria embank,0.00011
+old kent,0.00011
+cambcrwell,0.00011
+filmer,0.00011
+stafford place,0.00011
+egerton gardens,0.00011
+gray s inn hall,0.00011
+putney bridge road,0.00011
+st giles street,0.00011
+zoological society s gardens,0.00011
+montfichet,0.00011
+st lawrence pountney,0.00011
+st lawrence poultney,0.00011
+daubeney,0.00011
+deptford bridge,0.00011
+central hill,0.0001
+hornsey lane,0.0001
+rutland gardens,0.0001
+goldsmith s hall,0.0001
+sancroft,0.0001
+west of eng,0.0001
+wallace col,0.0001
+st sepul chre,0.0001
+waterloo bridge road,0.0001
+st mary le bow,0.0001
+londun,0.0001
+hampstcad,0.0001
+giltspur street,0.0001
+baldwin s gardens,0.0001
+pankhurst,0.0001
+upper montagu street,9e-05
+westminster hotel,8e-05
+bridge wharf,8e-05
+low hall,8e-05
+regent park,8e-05
+horniman museum,8e-05
+london planetarium,8e-05
+victoria embankment gardens,8e-05
+royds,8e-05
+thavies inn,6e-05
+saint pancras,6e-05
+clapbam,6e-05
+londn,5e-05
+st johns wood,5e-05
+great russell,5e-05
+aldersgatc street,5e-05
+norland square,5e-05
+russel square,3e-05
