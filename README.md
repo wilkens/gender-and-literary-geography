@@ -25,3 +25,5 @@ All visualizations, in PNG and PDF formats. There are substantially more of thes
 ### `results/`
 
 Numerical results calculated form our input data, including statistical analyses. Brief versions of many of these are included in the notebook, but the full outputs are in this directory. Also includes derived datasets that can be reproduced by executing the full notebook (including the slow steps), or loaded as-is to save execution time if the underlying data have not changed.
+
+If you just want to use our feature data for your own project, the easiest thing to do is to use one of the `all-features-*.csv.gz` files in this directory.
