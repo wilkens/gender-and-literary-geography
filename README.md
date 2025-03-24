@@ -12,7 +12,7 @@ The results, visualizations, and analyses contained in the repository are a supe
 
 This Jupyter notebook contains all of our analysis code. If you want to see how we calculated a result or produced a visualization, you should consult this notebook. You can reproduce all of our results by running the notebook in full. Note that the maps require a Mapbox API key.
 
-If GitHub has trouble rendering the notebook -- and you don't want to run it locally -- you can view a [rendered copy](https://nbviewer.org/github/wilkens/gender-and-literary-geography/notebook.ipynb) via nbviewer.
+If GitHub has trouble rendering the notebook -- and you don't want to run it locally -- you can view a [rendered copy](https://nbviewer.org/github/wilkens/gender-and-literary-geography/blob/main/notebook.ipynb) via nbviewer.
 
 ### `datasets/`
 
