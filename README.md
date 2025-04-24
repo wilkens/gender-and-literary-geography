@@ -2,7 +2,7 @@
 
 ## About this repo
 
-A notebook in support of [Elizabeth F. Evans](https://wayne.edu/people/gz0955) and [Matthew Wilkens](https://infosci.cornell.edu/content/wilkens), [_Gender and Literary Geography_](https://www.cambridge.org/core/elements/abs/gender-and-literary-geography/911FD1826C98AEAF6A12F42F05466788), Cambridge UP, 2025.
+Code and data in support of [Elizabeth F. Evans](https://wayne.edu/people/gz0955) and [Matthew Wilkens](https://infosci.cornell.edu/content/wilkens), [_Gender and Literary Geography_](https://www.cambridge.org/core/elements/abs/gender-and-literary-geography/911FD1826C98AEAF6A12F42F05466788), Cambridge UP, 2025.
 
 The results, visualizations, and analyses contained in the repository are a superset of those reported in the book. We've included additional material both to provide greater depth and context for the published results, and because there are some interesting findings that we think others may want to pursue.
 
